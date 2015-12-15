@@ -1,4 +1,5 @@
 # truckfights_win
+###game by Nathan Watts, Colin Watts, Quinn Collins, and Brian Rappaport
 
 ###Truckfights build for Windows
 
